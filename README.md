@@ -1,4 +1,3 @@
-OLD
 BitpopCoin (BPC) - The most preferred cryptocurrency on the BitcoinTalk forums.
 
 https://bitcointalk.org/index.php?topic=665896.0
