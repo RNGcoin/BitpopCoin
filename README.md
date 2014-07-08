@@ -4,9 +4,10 @@ https://bitcointalk.org/index.php?topic=665896.0
 
  - 5 minute block targets; beat that MinCoin!
  - 500,000,000 total BitpopCoins; beat that DogeCoin!
- - 10,000 coins per generated block; beat that LiteCoin!
+ - 500 coins per generated block; beat that LiteCoin!
  - Difficulty retargets every 8 hours
- - Scrypt mining
+ - Algo: X11
+ - PoS: 7% (8 hours - 30 days)
  - 288 blocks per day
 
 So actually, this 'new' coin exists for the following reasons:
@@ -18,19 +19,11 @@ Please post your loyalty, "I give my full loyalty to BPC."
 
 -----------------------------------------------------------------------------------
 
-Running
-
-git clone https://github.com/BitpopCoin/BitpopCoin.git
-
-cd BitpopCoin/src
-
-./BitpopCoin
-
------------------------------------------------------------------------------------
-
 bitpopcoin.conf
 
 server=1
+
+listen=1
 
 daemon=1
 
@@ -38,9 +31,9 @@ rpcuser=bitpop
 
 rpcpassword=bitpop
 
-rpcport=9031
+rpcport=45437
 
-port=9030
+port=45438
 
 rpcallowip=192.168.0.*
 
@@ -56,9 +49,11 @@ addnode=bitpopcoin.clck.cc
 
 Compiling
 
+git clone https://github.com/BitpopCoin/BitpopCoin.git
+
 cd BitpopCoin/src
 
-make -f makefile.unix USE_UPNP=1
+make -f makefile.unix
 
 strip BitpopCoin
 
