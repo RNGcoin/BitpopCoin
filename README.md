@@ -9,13 +9,13 @@ https://bitcointalk.org/index.php?topic=665896.0
  - Algo: X11
  - PoS: 7% (8 hours - 30 days)
  - 288 blocks per day
+ - There is no pre-mine!
 
-So actually, this new coin exists for the following reasons:
- - BPC proves that a coin can attain a 1 BTC/BPC value!
+What once started out as a troll coin has become the de facto preferred crypto currency on the BitcoinTalk forums.
 
-BPC will be the #2 coin in the world, right after BTC. Join me now, join me early!
+We are a community, let's rally together!
 
-Please post your loyalty, "I give my full loyalty to BPC."
+Donate: BSeyCRUHrr2Mi5RmzZkm21Q963LCH2x2bF
 
 -----------------------------------------------------------------------------------
 
@@ -55,6 +55,6 @@ cd BitpopCoin/src
 
 make -f makefile.unix
 
-strip BitpopCoin
+strip BitpopCoind
 
-./BitpopCoin
+./BitpopCoind
