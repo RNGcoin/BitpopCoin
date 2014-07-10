@@ -13,7 +13,7 @@ http://bitpopcoin.clck.cc/
  - 288 blocks per day
  - There is no pre-mine!
 
-What once started out as a troll coin has become the de facto preferred crypto currency on the BitcoinTalk forums.
+What once started out as a troll coin, has become the de facto preferred crypto currency on the BitcoinTalk forums.
 
 We are a community, let's rally together!
 

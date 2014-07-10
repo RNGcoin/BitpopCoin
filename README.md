@@ -15,7 +15,7 @@ http://bitpopcoin.clck.cc/
 
 What once started out as a troll coin, has become the de facto preferred crypto currency on the BitcoinTalk forums.
 
-We are a community, let's rally together!
+We are a community, let's rally together and embrace BPC!
 
 Donate: BSeyCRUHrr2Mi5RmzZkm21Q963LCH2x2bF
 
