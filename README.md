@@ -2,7 +2,7 @@ BitpopCoin (BPC) - The most preferred cryptocurrency on the BitcoinTalk forums.
 
 https://bitcointalk.org/index.php?topic=665896.0
 
-http://bitpopcoin.clck.cc/
+http://www.bitpopcoin.com/
 
  - 5 minute block targets; beat that MinCoin!
  - 500,000,000 total BitpopCoins; beat that DogeCoin!
@@ -45,7 +45,7 @@ maxconnections=32
 
 upnp=1
 
-addnode=bitpopcoin.clck.cc
+addnode=node.bitpopcoin.com
 
 -----------------------------------------------------------------------------------
 
