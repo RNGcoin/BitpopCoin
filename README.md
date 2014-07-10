@@ -35,7 +35,7 @@ rpcport=45437
 
 port=45438
 
-rpcallowip=192.168.0.*
+rpcallowip=127.0.0.1
 
 dns=1
 

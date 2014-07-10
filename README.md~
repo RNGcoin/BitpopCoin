@@ -10,7 +10,7 @@ https://bitcointalk.org/index.php?topic=665896.0
  - PoS: 7% (8 hours - 30 days)
  - 288 blocks per day
 
-So actually, this 'new' coin exists for the following reasons:
+So actually, this new coin exists for the following reasons:
  - BPC proves that a coin can attain a 1 BTC/BPC value!
 
 BPC will be the #2 coin in the world, right after BTC. Join me now, join me early!
