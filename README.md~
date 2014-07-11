@@ -47,6 +47,8 @@ upnp=1
 
 addnode=node.bitpopcoin.com
 
+addnode=altpooler.com:19013
+
 -----------------------------------------------------------------------------------
 
 Compiling
