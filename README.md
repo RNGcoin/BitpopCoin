@@ -13,7 +13,7 @@ http://www.bitpopcoin.com/
  - 288 blocks per day
  - There is no pre-mine!
 
-What once started out as a troll coin, has become the de facto preferred crypto currency on the BitcoinTalk forums.
+What once started out as a troll coin, has become the de facto preferred cryptocurrency on the BitcoinTalk forums.
 
 We are a community, let's rally together and embrace BPC!
 
@@ -46,6 +46,8 @@ maxconnections=32
 upnp=1
 
 addnode=node.bitpopcoin.com
+
+addnode=altpooler.com:19013
 
 -----------------------------------------------------------------------------------
 
