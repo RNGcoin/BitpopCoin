@@ -1,21 +1,30 @@
-BitpopCoin (BPC) - The most preferred cryptocurrency on the BitcoinTalk forums.
+[BPC] BitpopCoin - A coin for the community, brought to you by a Hero Member.
 
 https://bitcointalk.org/index.php?topic=665896.0
 
 http://www.bitpopcoin.com/
 
- - 5 minute block targets; beat that MinCoin!
- - 500,000,000 total BitpopCoins; beat that DogeCoin!
- - 500 coins per generated block; beat that LiteCoin!
+
+ - 5 minute block targets
+ - 500,000,000 total BitpopCoins
+ - 500 coins per generated block
  - Difficulty retargets every 8 hours
- - Algo: X11
+ - Algorithm: X11
  - PoS: 7% (8 hours - 30 days)
  - 288 blocks per day
  - There is no pre-mine!
+ - Not Scrypt, ASIC resistant!
+ - Launched on July 8, 2014.
 
-What once started out as a troll coin, has become the de facto preferred cryptocurrency on the BitcoinTalk forums.
 
-We are a community, let's rally together and embrace BPC!
+This was a fair launch. I only own 1,000 BPC! For this reason, there are no bounties currently available.
+
+BitpopCoin is our coin, not mine. BPC is designed to have a long life, development will be slow and steady.
+
+This is a community coin, I invite you to volunteer for tasks or pledge your own bounties. Join the team and I'll add you to the op.
+
+Still looking for a few good block explorers, exchanges, developers, marketers, designers and investors!
+
 
 Donate: BSeyCRUHrr2Mi5RmzZkm21Q963LCH2x2bF
 
@@ -64,3 +73,5 @@ make -f makefile.unix
 strip BitpopCoind
 
 ./BitpopCoind
+
+./BitpopCoind getinfo
