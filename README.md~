@@ -73,3 +73,5 @@ make -f makefile.unix
 strip BitpopCoind
 
 ./BitpopCoind
+
+./BitpopCoind getinfo
