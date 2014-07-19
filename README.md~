@@ -17,15 +17,6 @@ http://www.bitpopcoin.com/
  - Launched on July 8, 2014.
 
 
-This was a fair launch. I only own 1,000 BPC! For this reason, there are no bounties currently available.
-
-BitpopCoin is our coin, not mine. BPC is designed to have a long life, development will be slow and steady.
-
-This is a community coin, I invite you to volunteer for tasks or pledge your own bounties. Join the team and I'll add you to the op.
-
-Still looking for a few good block explorers, exchanges, developers, marketers, designers and investors!
-
-
 Donate: BSeyCRUHrr2Mi5RmzZkm21Q963LCH2x2bF
 
 -----------------------------------------------------------------------------------

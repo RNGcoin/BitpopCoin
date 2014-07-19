@@ -8,7 +8,7 @@ http://www.bitpopcoin.com/
  - 5 minute block targets
  - 500,000,000 total BitpopCoins
  - 500 coins per generated block
- - Difficulty retargets every 8 hours
+ - Difficulty retargets after every block
  - Algorithm: X11
  - PoS: 7% (8 hours - 30 days)
  - 288 blocks per day
