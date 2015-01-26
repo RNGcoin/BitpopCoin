@@ -1,4 +1,4 @@
-[BPC] BitpopCoin - A coin for the community, brought to you by a Hero Member.
+[RNG] RNGcoin - A coin for the community, brought to you by a Hero Member.
 
 https://bitcointalk.org/index.php?topic=665896.0
 
@@ -6,7 +6,7 @@ http://www.bitpopcoin.com/
 
 
  - 5 minute block targets
- - 500,000,000 total BitpopCoins
+ - 500,000,000 total RNGcoins
  - 500 coins per generated block
  - Difficulty retargets every 8 hours
  - Algorithm: X11
@@ -55,14 +55,14 @@ addnode=altpooler.com:19013
 
 Compiling
 
-git clone https://github.com/BitpopCoin/BitpopCoin.git
+git clone https://github.com/RNGcoin/RNGcoin.git
 
-cd BitpopCoin/src
+cd RNGcoin/src
 
 make -f makefile.unix
 
-strip BitpopCoind
+strip RNGcoind
 
-./BitpopCoind
+./RNGcoind
 
-./BitpopCoind getinfo
+./RNGcoind getinfo
