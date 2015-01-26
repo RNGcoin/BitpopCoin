@@ -56,6 +56,7 @@ uint256 hashBestChain = 0;
 CBlockIndex* pindexBest = NULL;
 int64_t nTimeBestReceived = 0;
 
+
 CMedianFilter<int> cPeerBlockCounts(5, 0); // Amount of blocks that other nodes claim to have
 
 map<uint256, CBlock*> mapOrphanBlocks;
@@ -2486,7 +2487,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
         const char* pszTimestamp = "Beat that!";
         CTransaction txNew;
-        txNew.nTime = 1422245361;
+        txNew.nTime = 1422245362;
         txNew.vin.resize(1);
         txNew.vout.resize(1);
         txNew.vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
@@ -2496,10 +2497,10 @@ bool LoadBlockIndex(bool fAllowNew)
         block.hashPrevBlock = 0;
         block.hashMerkleRoot = block.BuildMerkleTree();
         block.nVersion = 1;
-        block.nTime    = 1422245361;
+        block.nTime    = 1422245362;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 0;
-		if(fTestNet)
+        block.nNonce   = 302917;
+	if(fTestNet)
         {
             block.nNonce   = 0;
         }
@@ -2525,7 +2526,7 @@ bool LoadBlockIndex(bool fAllowNew)
         printf("block.nNonce = %u \n", block.nNonce);
 
         //// debug print
-        assert(block.hashMerkleRoot == uint256("0x"));
+        assert(block.hashMerkleRoot == uint256("0xf7019e9d6f0ccf1863e4864fbde4ab118a6f0df77a76efcd6eed69bd5f55339f"));
         assert(block.GetHash() == (!fTestNet ? hashGenesisBlock : hashGenesisBlockTestNet));
 
         // Start new block file
