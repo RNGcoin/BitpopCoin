@@ -27,9 +27,9 @@ listen=1
 
 daemon=1
 
-rpcuser=bitpop
+rpcuser=rngcoin
 
-rpcpassword=bitpop
+rpcpassword=fjkdjri932doafjskam23m
 
 rpcport=45437
 
