@@ -1,9 +1,7 @@
-Building hackcoin
+Building daemon
 
-See doc/readme-qt.rst for instructions on building hackcoin QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of hackcoin.
+cd src/
+make -f Makefile.unix (if on linux)
+make -f Makefile.osx (if on OS X)
 
-See doc/build-*.txt for instructions on building hackcoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of hackcoin.
+
