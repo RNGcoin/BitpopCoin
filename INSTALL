@@ -1,7 +1,0 @@
-Building daemon
-
-cd src/
-make -f Makefile.unix (if on linux)
-make -f Makefile.osx (if on OS X)
-
-
