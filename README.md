@@ -6,7 +6,7 @@ RNGcoin.github.io/
  - 5 minute block targets
  - 500,000,000 total RNGcoins
  - 500 coins per generated block
- - Difficulty retargets every 2 minutes
+ - Difficulty retargets every block
  - Algorithm: X11
  - PoS: 7% (8 hours - 30 days)
  - 288 blocks per day
