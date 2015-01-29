@@ -1,7 +1,6 @@
+<h2>Please note this is for personal use</h2>
+<br>
 [RNG] RNGcoin - A coin for the random.
-
-RNGcoin.github.io/
-
 
  - 5 minute block targets
  - 500,000,000 total RNGcoins
@@ -10,7 +9,6 @@ RNGcoin.github.io/
  - Algorithm: X11
  - PoS: 7% (8 hours - 30 days)
  - 288 blocks per day
- - Only 4 blocks pre-mine
  - ASIC resistant!
  - Launched on Jan. 30, 2015.
 
